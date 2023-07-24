@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="Teal">#008080</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
